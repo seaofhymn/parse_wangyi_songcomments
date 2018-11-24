@@ -1,2 +1,2 @@
 # parse_wangyi_songcomments
-基于selenium网易云音乐评论爬虫
+基于selenium网易云音乐评论爬虫，评论信息写入MongoDB数据库
